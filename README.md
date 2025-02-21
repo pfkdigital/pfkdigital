@@ -22,14 +22,12 @@ Hi, I'm **Nuh Ali**, a passionate **Full-Stack Engineer** dedicated to building 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50" style="margin-right:20px; margin-bottom: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="margin-bottom: 10px;" />
 </p>
-<br />
 
 ### 🚀 What I Bring:
 ✅ **Robust Full-Stack Development** – Expertise in modern frameworks & architectures.  
 ✅ **Cloud & DevOps Experience** – Deploying and scaling applications on AWS.  
 ✅ **Distributed Systems & Microservices** – Passion for scalable and maintainable solutions.  
 ✅ **Mentorship & Leadership** – Engineering leadership & team collaboration.  
-<br />
 
 ## 📌 Featured Projects
 | 🚀 Project | 🏗 Tech Stack | 📜 Repo |
