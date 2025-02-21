@@ -50,7 +50,7 @@ Hi, I'm **Nuh Ali**, a passionate **Full-Stack Engineer** dedicated to building 
 ## 📬 Contact Me
 🌐 **Website**: [pfkdigital.com](https://pfkdigital.co.uk)  
 💼 **LinkedIn**: [linkedin.com/in/nuhali](https://linkedin.com/in/nuhali)  
-📧 **Email**: [your.email@example.com](mailto:nuh@pfkdigital.co.uk)
+📧 **Email**: [noah@pfkdigital.co.uk](mailto:noah@pfkdigital.co.uk)
 
 ⭐ If you like my work, consider giving this repo a star and connecting with me!
 
