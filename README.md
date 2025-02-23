@@ -21,6 +21,7 @@ Hi, I'm **Nuh Ali**, a passionate **Full-Stack Engineer** dedicated to building 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" style="margin-right:20px; margin-bottom: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50" style="margin-right:20px; margin-bottom: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" style="margin-bottom: 10px;" />
 </p>
 
 ### 🚀 What I Bring:
