@@ -41,7 +41,7 @@ Hi, I'm **Nuh Ali**, a passionate **Full-Stack Engineer** dedicated to building 
 📌 **More projects available on my GitHub profile.**
 
 ## 🏆 Experience
-💼 **Interim Engineering Manager @ BT** (Current)  
+💼 **Engineering Manager @ BT** (Current)  
 👨‍💻 **Full-Stack Engineer | Software Architect**  
 🎓 **Continuous Learner | Mentor**  
 <br />
